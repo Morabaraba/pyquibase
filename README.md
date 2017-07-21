@@ -1,7 +1,7 @@
 # Pyquibase
 
 Pyquibase is a Python wrapper for [liquibase](http://www.liquibase.org/). 
-There are other liquibase wrapper for python but they all work with YAML file. Since I want to use xml file for liquibase, I built my own liquibase wrapper for python.
+There are other liquibase wrapper for python but they all require change log files to be in YAML format. Since I want to use xml file for liquibase, I built my own liquibase wrapper for python.
 Athough I use Pyquibase with xml files only, it should also work with other file types.
 
 ## Installation
